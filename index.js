@@ -29,9 +29,6 @@ doktorMilan.zakaziPregled(factory.getPregled(vrstePregledaEnum[2]), pacijentDrag
 doktorMilan.zakaziPregled(factory.getPregled(vrstePregledaEnum[0]), pacijentDragan);
 
 
-console.log('Svi pregledi pacijenta Dragana:');
-console.log(pacijentDragan.pregledi);
-
 // Obavljanje pregleda!
 pacijentDragan.obaviPregled();
 pacijentDragan.obaviPregled();

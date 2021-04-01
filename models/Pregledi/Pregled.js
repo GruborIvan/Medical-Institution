@@ -11,6 +11,10 @@ class Pregled {
         this.datumIVremePregleda = dateFns.format(new Date(), 'HH:mm:ss');
     }
 
+    obavljanjeMerenja() {
+        throw new Error('You have to implement this method in child classes!');
+    }
+
     GetInfoOPregledu() {
         throw new Error('You have to implement this method in child classes!');
     }

@@ -97,3 +97,15 @@
 
  [14:56:27] Pacijent Nikola Filipovic je obavio pregled kod lekara Milan Marinkovic
  [Pregled krvnog pritiska | 14:56:27] Gornji pritisak: 69 Donji pritisak 114 Puls: 140
+
+ [15:17:39] Kreiran novi doktor Milan Marinkovic
+ [15:17:39] Lekar Milan je zakazao pregledKRVNI_PRITISAK_PREGLED pacijentu Nikola Filipovic
+ [15:17:39] Pacijent Nikola Filipovic je obavio pregled kod lekara Milan Marinkovic
+ [Pregled nivoa secera | 15:17:39]:  Nivo secera: 38 Vreme poslednjeg obroka: 15:17:39
+
+ [15:17:39] Pacijent Nikola Filipovic je obavio pregled kod lekara Milan Marinkovic
+ [Pregled krvnog pritiska | 15:17:39] Gornji pritisak: 174 Donji pritisak 113 Puls: 156
+
+ [15:17:39] Kreiran novi pacijent Nikola Filipovic 2839472837381
+ [15:17:39] Pacijent Nikola Filipovic  je odabrao lekara Milan Marinkovic
+ [15:17:39] Lekar Milan je zakazao pregledNIVO_SECERA_PREGLED pacijentu Nikola Filipovic
